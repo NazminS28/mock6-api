@@ -1,0 +1,22 @@
+{
+    "signup": [
+        {
+          "email":"nazmin@gmail.com",
+          "username":"Naaz",
+          "password":"12345",
+          "confirmpass":"12345"
+        }
+    ],
+    "login": [
+        {
+          "username":"Naaz",
+          "password":"12345"
+        }
+      ],
+
+      "todo":[
+        
+      ]
+
+
+  }
